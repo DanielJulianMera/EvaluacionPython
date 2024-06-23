@@ -21,7 +21,7 @@ El proyecto está organizado en tres scripts:
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/seguimiento-de-gastos.git
+    git clone https://github.com/DanielJulianMera/EvaluacionPython
     cd seguimiento-de-gastos
     ```
 
