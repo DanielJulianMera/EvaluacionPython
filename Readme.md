@@ -41,12 +41,14 @@ Para ejecutar la aplicación, simplemente ejecuta el script `main.py`
 
 Una vez que ejecutes la aplicación, verás el siguiente menú en la terminal:
 
+```
 --- Seguimiento de Gastos ---
 1. Agregar Transacción
 2. Listar Transacciones
 3. Calcular Balance
 4. Guardar Datos
 5. Salir
+```
 
 ### Opciones del Menú
 
